@@ -32,5 +32,5 @@ Please include instructions on how to test the changes.
 
 
 # Gotchas/What I learned
-Please provide information on any "gotcha" moments and/or brief details about you learned.
+Please provide information on any "gotcha" moments and/or brief details about what you learned.
 
