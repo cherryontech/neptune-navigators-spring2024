@@ -1,7 +1,8 @@
 # Neptune Navigators
 
+**README will be updated as the project progresses.**
+
 This is the project repo for the Neptune Navigators! Our application will focus on impostor syndrome in the workplace. 
-- **README will be updated as the project progresses.**
 
 # Tech Stack (Dependencies/Scripts/Libraries)
 - **React** - A JavaScript library for building user interfaces for web applications. It allows developers to create reusable UI components and manage the state of each component.
