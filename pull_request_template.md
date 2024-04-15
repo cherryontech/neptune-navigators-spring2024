@@ -24,3 +24,13 @@ Please delete options that are not relevant.
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] My changes generate no new warnings
 
+
+
+# Testing Instructions
+Please include instructions on how to test the changes.
+
+
+
+# Gotchas/What I learned
+Please provide information on any "gotcha" moments and/or brief details about you learned.
+
