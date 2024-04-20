@@ -28,6 +28,11 @@ This is the project repo for the Neptune Navigators! Our application will focus 
     - Can be used within your code editor or through the command line.
 
 - **Tailwind CSS** - A utility-first CSS framework with pre-designed classes that helps in quickly building designs and creating easy customizations.
+
   - **To run:**
     - Install in your project using npm or yarn.
     - Adjust the configuration file as needed.
+
+- **Vite**
+
+- **Netlify**
