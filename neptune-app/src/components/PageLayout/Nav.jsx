@@ -1,7 +1,7 @@
 export default function Nav() {
     return(
-        <nav className="bg-gray-300 shadow shadow-gray-300 w-full px-8 lg:px-2">
-            <div className="lg:h-16 h-28 mx-auto container flex items-center justify-center">
+        <nav className="bg-gray-300 shadow shadow-gray-300 w-full px-8 md:px-2">
+            <div className="md:h-16 h-28 mx-auto container flex items-center justify-center">
                 <div className="text-gray-500 md:order-1 flex items-center justify-center w-full">
                     <svg width="40px" height="40px" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                         <g fill="currentColor">
