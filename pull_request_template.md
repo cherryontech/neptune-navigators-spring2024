@@ -24,7 +24,15 @@ Please delete options that are not relevant.
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] My changes generate no new warnings
 
-
+# Accessibility Testing
+- [ ] font size when zoomed in
+- [ ] color contrast
+- [ ] proper outline on focus indicator
+(Note) Test with: 
+screen reader and keyboard
+keyboard + eyes 
+very zoomed in (400%)
+try combinations of above as well
 
 # Testing Instructions
 Please include instructions on how to test the changes.
