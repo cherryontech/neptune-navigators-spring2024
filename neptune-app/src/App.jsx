@@ -2,6 +2,7 @@ import { Routes, Route, useNavigate } from 'react-router-dom'
 import { RouterProvider } from "react-aria-components";
 import "./App.css";
 import HomePage from "./Pages/Home";
+import CustomerSuccessManagerPath from './Pages/CareerPaths/CustomerSuccessManagerPath/CustomerSuccessManager';
 import Header from './components/PageLayout/Header';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Header/>
       <Routes>
         <Route path="/" element={<HomePage />} />
+        <Route path="/customer-success-manager" element={<CustomerSuccessManagerPath />} />
       </Routes>
     </RouterProvider>
   );
